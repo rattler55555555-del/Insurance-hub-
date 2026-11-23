@@ -1,0 +1,6 @@
+{
+  "name": "Insurance Hub",
+  "description": "Get instant Health, Term Life, Car & Bike, and Business insurance quotes directly on WhatsApp with Insurance Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
